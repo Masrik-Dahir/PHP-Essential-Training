@@ -1,5 +1,7 @@
 # PHP-Essential-Training
 
+LinkedIn Learning
+
 Instructor: Kevin Skoglund
 
 1. Embedded PHP code, 
